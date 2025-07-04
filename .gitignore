@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+hh_database.csv
 build/
 develop-eggs/
 dist/
