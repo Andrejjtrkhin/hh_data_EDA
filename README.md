@@ -1,1 +1,1 @@
-# hh_data_EDA
+# <center> Проект: Анализ резюме из HeadHunter за 2018 - 2019 года
